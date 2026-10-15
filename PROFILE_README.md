@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Subhramit0145/Subhramit0145.github.io/main/profile-banner.svg" width="100%" alt="Subhramit Bera Profile Banner"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&duration=2600&pause=700&color=00E5FF&center=true&vCenter=true&width=820&lines=autonomous+agents+%2F%2F+multi-hop+RAG+%2F%2F+systems+engineering;B.Tech+%40+ABV-IIITM+Gwalior+(8.62+CGPA)+%C2%B7+Research+%40+IIT+BHU;500%2B+DSA+solved+%C2%B7+JEE+Main+98.2%25ile;From+Silicon+to+Transformers%3A+measure+every+constraint" alt="headline" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&duration=2600&pause=700&color=00E5FF&center=true&vCenter=true&width=820&lines=autonomous+agents+%2F%2F+multi-hop+RAG+%2F%2F+systems+engineering;B.Tech+%40+IIIT+Gwalior+%C2%B7+Research+%40+IIT+BHU;500%2B+DSA+solved+%C2%B7+JEE+Main+98.2%25ile;From+Silicon+to+Transformers%3A+measure+every+constraint" alt="headline" />
 
 <br/>
 <p align="center">
@@ -20,7 +20,9 @@
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Subhramit0145&label=PROFILE+VIEWS&color=00E5FF&style=flat-square" alt="profile views" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Subhramit0145&label=PROFILE+VIEWS&color=00E5FF&style=for-the-badge" alt="Profile Views" />
+</p>
 
 </div>
 
@@ -28,7 +30,7 @@
 
 ## About
 
-**B.Tech student at ABV-IIITM Gwalior** (2023 – 2027 · CGPA: 8.62) with summer research background in semiconductor physics at **IIT (BHU) Varanasi** and **IISc CeNSE** distinction.
+**B.Tech student at IIIT Gwalior** (2023 – 2027) with summer research background in semiconductor physics at **IIT (BHU) Varanasi** and **IISc CeNSE** distinction.
 
 I engineer at the intersection of **autonomous AI agents, state machine retrieval systems, and high-performance compute architectures**. While many view AI exclusively through high-level API wrappers, my foundation in digital electronics and processor design gives me a deep intuition for memory bandwidth, cache hierarchies, latency bottlenecks, and hardware compute tradeoffs.
 
@@ -38,8 +40,8 @@ I engineer at the intersection of **autonomous AI agents, state machine retrieva
 
 | Dimension | Details |
 |---|---|
-| **Institution** | Atal Bihari Vajpayee Indian Institute of Information Technology & Management (ABV-IIITM Gwalior) |
-| **Degree & GPA** | B.Tech in Electronics & Communication / Systems (2023 — 2027) · **CGPA: 8.62** |
+| **Institution** | IIIT Gwalior |
+| **Program** | B.Tech in Electronics & Communication / Systems (2023 — 2027) |
 | **Research Background** | Summer Research Intern @ **IIT (BHU) Varanasi** (Semiconductor physics modeling, $R^2 > 0.98$) · Distinction @ **IISc CeNSE** |
 | **Core Specialization** | Autonomous AI Agents · Multi-Hop RAG · Discrete Simulations · Computer Architecture & RISC-V |
 | **Algorithmic Problem Solving** | **500+ DSA problems** solved across LeetCode & competitive programming |
