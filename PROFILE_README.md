@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,24&height=200&section=header&text=Subhramit%20Bera&fontSize=42&fontColor=00E5FF&animation=twinkling&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Autonomous%20Agents%20%E2%80%A2%20Systems%20%26%20Silicon%20Architecture&descFontSize=16&descAlignY=62&descAlign=50" width="100%" alt="Subhramit Bera Profile Banner"/>
+<img src="https://raw.githubusercontent.com/Subhramit0145/Subhramit0145.github.io/main/profile-banner.svg" width="100%" alt="Subhramit Bera Profile Banner"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&duration=2600&pause=700&color=00E5FF&center=true&vCenter=true&width=820&lines=autonomous+agents+%2F%2F+multi-hop+RAG+%2F%2F+systems+engineering;B.Tech+%40+ABV-IIITM+Gwalior+(8.62+CGPA)+%C2%B7+Research+%40+IIT+BHU;500%2B+DSA+solved+%C2%B7+JEE+Main+98.2%25ile;From+Silicon+to+Transformers%3A+measure+every+constraint" alt="headline" />
 
@@ -60,7 +60,7 @@ I engineer at the intersection of **autonomous AI agents, state machine retrieva
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,12,24&height=3" width="100%"/>
+<hr style="border: none; height: 1px; background: linear-gradient(90deg, transparent, rgba(0, 229, 255, 0.6), transparent); margin: 20px 0;"/>
 
 <h2>SELECTED WORK</h2>
 
@@ -298,6 +298,6 @@ If you are building AI agents, high-throughput systems, or hardware-aware softwa
 [![Say hi](https://img.shields.io/badge/SAY_HI-sbsubhramit@gmail.com-1a1a2e?style=for-the-badge&labelColor=EA4335)](mailto:sbsubhramit@gmail.com)
 [![Resume](https://img.shields.io/badge/DOWNLOAD-Resume-7C4DFF?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1TWFrEb8OLHlO_x8kI8SdbwiuW08R7AsG/view?usp=drive_link)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,24&height=160&section=footer&text=see%20you%20in%20the%20commits&fontSize=28&fontColor=00E5FF&animation=twinkling&fontAlignY=72" width="100%"/>
+<img src="https://raw.githubusercontent.com/Subhramit0145/Subhramit0145.github.io/main/footer-banner.svg" width="100%" alt="Subhramit Bera Footer"/>
 
 </div>
